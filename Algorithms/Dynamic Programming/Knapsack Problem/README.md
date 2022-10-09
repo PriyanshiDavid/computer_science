@@ -21,7 +21,7 @@ The ***0/1 Knapsack Problem*** is solved using the **Dynamic Problem Approach**.
 
 The algorithm for Knapsack Problem using Dynamic Programming is as follows:
 
-**Input:** Set of items X, set of weight W, profit of items V and knapsack capacity M 
+**Input:** Set of items X, set of weight W, profit of items V and knapsack capacity M <br>
 **Output:** Array V, which holds the solution of problem
 
 ```
